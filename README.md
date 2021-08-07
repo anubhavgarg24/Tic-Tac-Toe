@@ -1,6 +1,6 @@
 # Tic Tac Toe app
 
-![](tic tac toe.png)
+![](Tic tac toe.png)
 
 Features:
 * Display toast when position is pre-occupied or someone already won.
